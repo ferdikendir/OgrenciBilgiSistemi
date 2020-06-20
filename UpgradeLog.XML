@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="danisman">
+</Property><Property Name="Solution File" Value="C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\danisman.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\danisman.suo">
+</Property><Property Name="Date" Value="1 Aralık 2016 Perşembe">
+</Property><Property Name="Time" Value="15:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="danisman.sln" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.sln">
+</Event><Event ErrorLevel="0" Project="" Source="danisman.suo" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.suo">
+</Event><Event ErrorLevel="0" Project="danisman" Source="danisman.csproj" Description="Project file successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.csproj">
+</Event><Event ErrorLevel="0" Project="danisman" Source="danisman.csproj.user" Description="Project user file successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.csproj.user">
+</Event><Event ErrorLevel="0" Project="danisman" Source="anatablo.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\anatablo.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="danisman.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="giris.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\giris.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="giris.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\giris.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrenci.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrenci.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrencidetay.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrencidetay.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrencidetay.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrencidetay.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Program.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="danisman" Source="app.config" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrenci.xsc" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrenci.xsc">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrenci.xsd" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrenci.xsd">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrenci.xss" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrenci.xss">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="danisman" Source="danisman.resx" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\danisman.resx">
+</Event><Event ErrorLevel="0" Project="danisman" Source="giris.resx" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\giris.resx">
+</Event><Event ErrorLevel="0" Project="danisman" Source="ogrencidetay.resx" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\ogrencidetay.resx">
+</Event><Event ErrorLevel="0" Project="danisman" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="danisman" Source="danisman.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="danisman" Source="danisman.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="danisman.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="danisman.sln" Description="Converted">
+</Event></UpgradeLog>

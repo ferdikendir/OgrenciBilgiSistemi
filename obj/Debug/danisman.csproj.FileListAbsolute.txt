@@ -1,0 +1,111 @@
+D:\proje\danisman\danisman\bin\Debug\danisman.exe.config
+D:\proje\danisman\danisman\bin\Debug\danisman.exe
+D:\proje\danisman\danisman\bin\Debug\danisman.pdb
+D:\proje\danisman\danisman\obj\Debug\ResolveAssemblyReference.cache
+D:\proje\danisman\danisman\obj\Debug\danisman.Form1.resources
+D:\proje\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+D:\proje\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+D:\proje\danisman\danisman\obj\Debug\danisman.exe
+D:\proje\danisman\danisman\obj\Debug\danisman.pdb
+D:\proje\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+C:\Users\Coder\Desktop\danisman\danisman\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.pdb
+C:\Users\Coder\Desktop\danisman\danisman\bin\Debug\danisman.exe
+C:\Users\Coder\Desktop\danisman\danisman\bin\Debug\danisman.pdb
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.Form1.resources
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.giris.resources
+C:\Users\Coder\Desktop\danisman\danisman\obj\Debug\danisman.csprojResolveAssemblyReference.cache
+D:\evde\danisman\danisman\bin\Debug\danisman.exe.config
+D:\evde\danisman\danisman\obj\Debug\danisman.exe
+D:\evde\danisman\danisman\obj\Debug\danisman.pdb
+D:\evde\danisman\danisman\bin\Debug\danisman.exe
+D:\evde\danisman\danisman\bin\Debug\danisman.pdb
+D:\evde\danisman\danisman\obj\Debug\ResolveAssemblyReference.cache
+D:\evde\danisman\danisman\obj\Debug\danisman.Form1.resources
+D:\evde\danisman\danisman\obj\Debug\danisman.giris.resources
+D:\evde\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+D:\evde\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+D:\evde\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+D:\29.11.2016\danisman\danisman\bin\Debug\danisman.exe.config
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.exe
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.pdb
+D:\29.11.2016\danisman\danisman\bin\Debug\danisman.exe
+D:\29.11.2016\danisman\danisman\bin\Debug\danisman.pdb
+D:\29.11.2016\danisman\danisman\obj\Debug\ResolveAssemblyReference.cache
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.Form1.resources
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.giris.resources
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+D:\29.11.2016\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.pdb
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\bin\Debug\danisman.exe
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\bin\Debug\danisman.pdb
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.csprojResolveAssemblyReference.cache
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.Form1.resources
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.giris.resources
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+C:\Users\Coder\Desktop\proje\30.11.2016\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+D:\02.12.2016\danisman\danisman\bin\Debug\danisman.exe.config
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.exe
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.pdb
+D:\02.12.2016\danisman\danisman\bin\Debug\danisman.exe
+D:\02.12.2016\danisman\danisman\bin\Debug\danisman.pdb
+D:\02.12.2016\danisman\danisman\obj\Debug\ResolveAssemblyReference.cache
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.Form1.resources
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.giris.resources
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+D:\02.12.2016\danisman\danisman\obj\Debug\danisman.ogretmen.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.pdb
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.csprojResolveAssemblyReference.cache
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.Form1.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.giris.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.ogrencidetay.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.ogretmen.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.Properties.Resources.resources
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.csproj.GenerateResource.Cache
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\bin\Debug\danisman.exe
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\bin\Debug\danisman.pdb
+C:\Users\Coder\Desktop\proje\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.danisman_ogrenci_detay.resources
+C:\Users\Coder\Desktop\Program\02.12.2016-yeni\danisman\danisman\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\Program\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\Program\02.12.2016-yeni\danisman\danisman\obj\Debug\danisman.pdb
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.pdb
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\bin\Debug\danisman.exe
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\bin\Debug\danisman.pdb
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.csprojResolveAssemblyReference.cache
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.Form1.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.danisman_ogrenci_detay.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.giris.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.ogrencidetay.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.ogretmen.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.Properties.Resources.resources
+C:\Users\Coder\Desktop\Program\Ogrenci Isleri Otomasyonu\obj\Debug\danisman.csproj.GenerateResource.Cache
+C:\Users\Coder\Desktop\Okul\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\bin\Debug\danisman.exe.config
+C:\Users\Coder\Desktop\Okul\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.exe
+C:\Users\Coder\Desktop\Okul\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.pdb
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\bin\Debug\danisman.exe.config
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.exe
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.pdb
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\bin\Debug\danisman.exe
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\bin\Debug\danisman.pdb
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.csprojResolveAssemblyReference.cache
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.Form1.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.danisman_ogrenci_detay.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.giris.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.ogrencidetay.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.ogretmen.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.Properties.Resources.resources
+D:\okul\3._donem\Görsel 2\Proje\Ogrenci Bilgi Otomasyonu\obj\Debug\danisman.csproj.GenerateResource.Cache
